@@ -70,7 +70,7 @@ const Untitled7 = () => {
       letterSpacing: 3,
       fontWeight: 700,
       fontFamily: "Roboto"
-    }}>Login</Text><Text style={{
+    }}>Sign In</Text><Text style={{
       left: 37,
       top: 175,
       position: "absolute",
