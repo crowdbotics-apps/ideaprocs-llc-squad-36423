@@ -57,7 +57,7 @@ const Untitled7 = () => {
       lineHeight: 14,
       fontSize: 15,
       borderRadius: 0
-    }}>Recover Password</Text></View>;
+    }}>Password Recovery</Text></View>;
 };
 
 export default Untitled7;
