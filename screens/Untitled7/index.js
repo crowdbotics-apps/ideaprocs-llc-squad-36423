@@ -71,13 +71,13 @@ const Untitled7 = () => {
       fontWeight: 700,
       fontFamily: "Roboto"
     }}>Sign In</Text><Text style={{
-      left: 37,
+      left: 32,
       top: 175,
       position: "absolute",
       width: 100,
       height: 20,
       lineHeight: 14,
-      fontSize: 12,
+      fontSize: 8,
       borderRadius: 0
     }}>Remember me</Text><Text style={{
       left: 49,
