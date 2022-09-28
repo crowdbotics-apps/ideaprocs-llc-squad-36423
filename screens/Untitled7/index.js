@@ -68,7 +68,7 @@ const Untitled7 = () => {
       textAlign: "center",
       color: "#f0f0f0",
       letterSpacing: 3,
-      fontWeight: 700,
+      fontWeight: "700",
       fontFamily: "Roboto"
     }}>Sign In</Text><Text style={{
       left: 32,

@@ -46,7 +46,7 @@ const Untitled1 = () => {
       textAlign: "center",
       color: "#f0f0f0",
       letterSpacing: 2,
-      fontWeight: 700,
+      fontWeight: "700",
       fontFamily: "Roboto"
     }}>Reset Password</Text><Text style={{
       left: 17,
